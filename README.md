@@ -46,7 +46,7 @@ The main goal of this project is building a grid-based framework (similar to boo
 
 👤 **Vladimir Luna**
 
-- Github: [@noomdalv(https://github.com/noomdalv)
+- Github: [@noomdalv](https://github.com/noomdalv)
 - Twitter: [@noomdalv](https://twitter.com/noomdalv)
 - Linkedin: [vladlunasan](https://www.linkedin.com/in/vladlunasan/)
 
